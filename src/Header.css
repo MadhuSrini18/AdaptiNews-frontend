@@ -1,0 +1,19 @@
+/* Header.css */
+
+/* Navbar Brand */
+.navbar-brand {
+    font-size: 1.5rem;
+    margin-left: 2em;
+  }
+  
+  /* Navbar Links */
+  .nav-link {
+    font-size: 1rem;
+    color: #fff; /* Change link color */
+  }
+  
+  /* Navbar Links Hover */
+  .nav-link:hover {
+    color: #ccc; /* Change hover color */
+  }
+  

@@ -1,0 +1,30 @@
+.landing-page {
+    background-image: url('https://cdn.pixabay.com/photo/2016/02/01/00/56/news-1172463_640.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .landing-page-content {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 100px 0;
+  }
+  
+  .landing-page h1 {
+    color: #fff;
+  }
+  
+  .landing-page p {
+    color: #fff;
+  }
+  
+  .landing-page .btn-primary {
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .landing-page h1 {
+      font-size: 2.5rem;
+    }
+  }
+  
